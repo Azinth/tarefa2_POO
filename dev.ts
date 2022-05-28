@@ -39,8 +39,3 @@ let contas = new Corrente(25281, 1000, 'Gabriel', 500);
 console.log(contas.sacar(200));
 console.log(contas.getSaldo());
 console.log(contas.depositar(500));
-
-
-class Conta{
-
-}
